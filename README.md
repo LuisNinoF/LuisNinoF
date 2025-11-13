@@ -11,11 +11,11 @@ I’m currently expanding my software expertise by programming ARM microcontroll
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| Bare Metal Drivers: GPIOs, ADC, UART, SPI      | <a href="https://google.com">Detection Lab</a>|
-| Real-Time Operating Systems (RTOS)             | <a href="https://google.com">Detection Lab</a>|
-| Bootloaders and firmware updates               | Work in progress|
-| IoT Connectivity                               | Work in progress|
-| Cloud Integration                              | Work in progress|
+| Bare Metal Drivers: GPIOs, ADC, UART, SPI        | <a href="https://google.com">Detection Lab</a>|
+| Real-Time Operating Systems (RTOS and FreeRTOS)  | <a href="https://google.com">Detection Lab</a>|
+| Bootloaders and firmware updates                 | Work in progress|
+| IoT Connectivity                                 | Work in progress|
+| Cloud Integration                                | Work in progress|
 
 ## Tools
 <div>
