@@ -1,26 +1,21 @@
-# Hello, I'm CHANGEME
-<a href="https://linkedin.com"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+# Hello, I'm Luis
+<a href="linkedin.com/in/luis-fernando-nino"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-[Brief Introduction - Remove this afterwards]
-
-I am a recent graduate with a profound interest in technology and a dedication to solving complex problems.
+Over the past 5+ years, I have worked on designing and testing industrial machinery and consumer products. Most recently, I positioned myself as a specialist in the field of sensors in an electronics and software department. 
 
 ## Objective
-[Provide Objective - Remove this afterwards]]
 
-My journey in computer science has led me to develop a passion for cybersecurity, and I am now eager to transition into this field, specifically aiming to join a Security Operations Center (SOC) as a Tier 1 Analyst.
+I’m currently expanding my software expertise by programming ARM microcontrollers to create smart products. I am now eager to transition to the field of embedded systems and IoT as a firmware engineer.
 
 ## Skills
-[Provide skills and associated project. Make sure to hyperlink the project - Remove this afterwards]]
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| SIEM Implementation and Log Analysis          | <a href="https://google.com">Detection Lab</a>|
-| Network Traffic Monitoring and Attack Detection | <a href="https://google.com">Detection Lab</a>|
-| Security Automation with Shuffle SOAR         | SOC Automation Lab|
-| Incident Response Planning and Execution      | SOC Automation Lab|
-| Case Management with TheHive                  | SOC Automation Lab|
-| Scripting and Automation for Threat Mitigation | SOC Automation Lab|
+| Bare Metal Drivers: GPIOs, ADC, UART, SPI      | <a href="https://google.com">Detection Lab</a>|
+| Real-Time Operating Systems (RTOS)             | <a href="https://google.com">Detection Lab</a>|
+| Bootloaders and firmware updates               | Work in progress|
+| IoT Connectivity                               | Work in progress|
+| Cloud Integration                              | Work in progress|
 
 ## Tools
 [Provide tools and break them down into categories. Use ChatGPT to help create the link - Remove this afterwards]]
