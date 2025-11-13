@@ -18,9 +18,21 @@ I’m currently expanding my software expertise by programming ARM microcontroll
 | Cloud Integration                              | Work in progress|
 
 ## Tools
-- STM32CubeIDE
-- STM32CubeMX
+<div>
+<img src="https://img.shields.io/badge/-STMicroelectronics-FFCC00?style=for-the-badge&logo=stmicroelectronics&logoColor=black" />
+<img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=black" />
+</div>
+
+- ST: STM32CubeIDE & STM32CubeMX
+- AWS: IoT Core, Lambda & Timestream
 
 ## Certifications
+<div>
+<img src="https://img.shields.io/badge/-ARM-blue?style=for-the-badge&logo=arm&logoColor=white" />
+<img src="https://img.shields.io/badge/Embedded%20Expert%20IO-0A2D45?style=for-the-badge&logoColor=white&labelColor=0A2D45&color=5CB3FF" />
+</div>
+
 - ARM: Embedded Systems Essentials with Arm
+- Embedded Expert IO: Embedded Mastery A-Z (in progress)
 - Udemy: Certification in Sensors for Manufacturing Automation
+
