@@ -12,7 +12,7 @@ I’m currently expanding my software expertise by programming ARM microcontroll
 | Skill                                         | Associated Projects         |
 |-----------------------------------------------|----------------------------|
 | Bare metal drivers: GPIOs, ADC, UART             | <a href="https://github.com/LuisNinoF/Bare-Metal-Drivers/tree/main">Bare-Metal-Drivers</a>|
-| Real-Time Operating Systems (RTOS and FreeRTOS)  | Work in progress|
+| Real-Time Operating Systems (RTOS and FreeRTOS)  | <a href="https://github.com/LuisNinoF/Real-Time-Operating-Systems">Real-Time-Operating-Systems</a>|
 | Bootloaders and firmware updates                 | Work in progress|
 | IoT Connectivity                                 | Work in progress|
 | Cloud Integration                                | Work in progress|
