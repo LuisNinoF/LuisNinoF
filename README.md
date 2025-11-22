@@ -13,7 +13,7 @@ I’m currently expanding my software expertise by programming ARM microcontroll
 |-----------------------------------------------|----------------------------|
 | Bare metal drivers: GPIOs, ADC, UART             | <a href="https://github.com/LuisNinoF/Bare-Metal-Drivers/tree/main">Bare-Metal-Drivers</a>|
 | Real-Time Operating Systems (RTOS and FreeRTOS)  | <a href="https://github.com/LuisNinoF/Real-Time-Operating-Systems">Real-Time-Operating-Systems</a>|
-| Bootloaders and firmware updates                 | Work in progress|
+| Bootloaders and firmware updates (IAP, SD card and FOTA + AWS) | <a href="https://github.com/LuisNinoF/Bootloaders-Firmware-Update">Bootloaders-Firmware-Update</a>|
 | IoT Connectivity                                 | Work in progress|
 | Cloud Integration                                | Work in progress|
 
@@ -24,7 +24,7 @@ I’m currently expanding my software expertise by programming ARM microcontroll
 </div>
 
 - ST: STM32CubeIDE & STM32CubeMX
-- AWS: IoT Core, Lambda & Timestream
+- AWS: S3, IoT Core, Lambda & Timestream
 
 ## Certifications
 <div>
