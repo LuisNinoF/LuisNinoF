@@ -44,4 +44,5 @@ To demonstrate my skills, I have developed the following projects. Go ahead and 
 - ESP8266: WiFi module
 - ESP32: WiFi & Bluetooth SoC
 - ADXL_345: 3-axis accelerometer sensor
+- MCP2551: CAN protocol controller
 
