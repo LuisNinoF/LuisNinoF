@@ -15,8 +15,7 @@ I’m currently expanding my software expertise by programming ARM microcontroll
 | Real-Time Operating Systems (RTOS and FreeRTOS)  | <a href="https://github.com/LuisNinoF/Real-Time-Operating-Systems">Real-Time-Operating-Systems</a>|
 | Bootloaders and firmware updates (IAP, SD card and FOTA + AWS) | <a href="https://github.com/LuisNinoF/Bootloaders-Firmware-Update">Bootloaders-Firmware-Update</a>|
 | Communication protocols: CAN 2.0                 | <a href="https://github.com/LuisNinoF/Communication-Protocols">Communication-Protocols</a>|
-| IoT Connectivity                                 | Work in progress|
-| Cloud Integration                                | Work in progress|
+| IoT Connectivity and Cloud Integration           | Work in progress|
 
 ## Tools
 <div>
