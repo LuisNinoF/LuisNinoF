@@ -8,6 +8,7 @@ Over the past 5+ years, I have worked on designing and testing industrial machin
 I’m currently expanding my software expertise by programming ARM microcontrollers to create smart products. I am now eager to transition to the field of embedded systems and IoT.
 
 ## Skills
+To demonstrate my skills, I have developed the following projects. Go ahead and click on your favorite:
 
 | Skill                                         | Associated Projects         |
 |-----------------------------------------------|----------------------------|
@@ -15,7 +16,7 @@ I’m currently expanding my software expertise by programming ARM microcontroll
 | Real-Time Operating Systems (RTOS and FreeRTOS)  | <a href="https://github.com/LuisNinoF/Real-Time-Operating-Systems">Real-Time-Operating-Systems</a>|
 | Bootloaders and firmware updates (IAP, SD card and FOTA + AWS) | <a href="https://github.com/LuisNinoF/Bootloaders-Firmware-Update">Bootloaders-Firmware-Update</a>|
 | Communication protocols: CAN 2.0                 | <a href="https://github.com/LuisNinoF/Communication-Protocols">Communication-Protocols</a>|
-| IoT Connectivity and Cloud Integration           | Work in progress|
+| IoT Connectivity and Cloud Integration           | <a href="https://github.com/LuisNinoF/IoT-and-Cloud">IoT-and-Cloud</a>|
 
 ## Tools
 <div>
@@ -25,6 +26,7 @@ I’m currently expanding my software expertise by programming ARM microcontroll
 
 - ST: STM32CubeIDE & STM32CubeMX
 - AWS: S3, IoT Core, Lambda & Timestream
+- Connectivity Protyping: ThingSpeak
 
 ## Certifications
 <div>
@@ -35,4 +37,11 @@ I’m currently expanding my software expertise by programming ARM microcontroll
 - ARM: Embedded Systems Essentials with Arm
 - Embedded Expert IO: Embedded Mastery A-Z (in progress)
 - Udemy: Certification in Sensors for Manufacturing Automation
+
+## Hardware
+- STM32F4: Arm Cortex-M4 microcontroller
+- FTDI USB to SPI adapter
+- ESP8266: WiFi module
+- ESP32: WiFi & Bluetooth SoC
+- ADXL_345: 3-axis accelerometer sensor
 
