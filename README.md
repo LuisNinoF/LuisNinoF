@@ -5,7 +5,7 @@ Over the past 5+ years, I have worked on designing and testing industrial machin
 
 ## Objective
 
-I’m currently expanding my software expertise by programming ARM microcontrollers to create smart products. I am now eager to transition to the field of embedded systems and IoT.
+I’m currently expanding my software expertise by programming ARM microcontrollers to develop smarter products. I am now eager to transition to the field of embedded systems and IoT.
 
 ## Skills
 To demonstrate my skills, I have developed the following projects. Go ahead and click on your favorite:
