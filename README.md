@@ -26,7 +26,7 @@ To demonstrate my skills, I have developed the following projects. Go ahead and 
 
 - ST: STM32CubeIDE & STM32CubeMX
 - AWS: S3, IoT Core, Lambda & Timestream
-- Connectivity Protyping: ThingSpeak
+- Connectivity Protyping: ThingSpeak, Batcave
 
 ## Certifications
 <div>
@@ -34,8 +34,8 @@ To demonstrate my skills, I have developed the following projects. Go ahead and 
 <img src="https://img.shields.io/badge/Embedded%20Expert%20IO-0A2D45?style=for-the-badge&logoColor=white&labelColor=0A2D45&color=5CB3FF" />
 </div>
 
-- ARM: Embedded Systems Essentials with Arm
 - Embedded Expert IO: Embedded Mastery A-Z (in progress)
+- ARM: Embedded Systems Essentials with Arm
 - Udemy: Certification in Sensors for Manufacturing Automation
 
 ## Hardware
