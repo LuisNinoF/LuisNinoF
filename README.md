@@ -24,9 +24,9 @@ To demonstrate my skills, I have developed the following projects. Go ahead and 
 <img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=black" />
 </div>
 
-- ST: STM32CubeIDE & STM32CubeMX
-- AWS: S3, IoT Core, Lambda & Timestream
-- Connectivity Protyping: ThingSpeak, Batcave
+- ST: STM32CubeIDE
+- AWS: S3, Lambda, DynamoDB, Gateway API
+- Connectivity Protyping: ThingSpeak
 
 ## Certifications
 <div>
@@ -40,9 +40,9 @@ To demonstrate my skills, I have developed the following projects. Go ahead and 
 
 ## Hardware
 - STM32F4: Arm Cortex-M4 microcontroller
-- FTDI USB to SPI adapter
-- ESP8266: WiFi module
 - ESP32: WiFi & Bluetooth SoC
+- ESP8266: WiFi module
+- FTDI USB to SPI adapter
 - ADXL_345: 3-axis accelerometer sensor
 - MCP2551: CAN protocol controller
 
