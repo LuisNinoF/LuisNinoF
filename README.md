@@ -12,7 +12,7 @@ To demonstrate my skills, I have developed the following projects. Go ahead and 
 
 | Skill                                         | Associated Projects         |
 |-----------------------------------------------|----------------------------|
-| Bare metal drivers: GPIOs, ADC, UART             | <a href="https://github.com/LuisNinoF/Bare-Metal-Drivers/tree/main">Bare-Metal-Drivers</a>|
+| Bare metal drivers in C and C++: GPIOs, ADC, UART| <a href="https://github.com/LuisNinoF/Bare-Metal-Drivers/tree/main">Bare-Metal-Drivers</a>|
 | Real-Time Operating Systems (RTOS and FreeRTOS)  | <a href="https://github.com/LuisNinoF/Real-Time-Operating-Systems">Real-Time-Operating-Systems</a>|
 | Bootloaders and firmware updates (IAP, SD card and FOTA + AWS) | <a href="https://github.com/LuisNinoF/Bootloaders-Firmware-Update">Bootloaders-Firmware-Update</a>|
 | Communication protocols: CAN 2.0                 | <a href="https://github.com/LuisNinoF/Communication-Protocols">Communication-Protocols</a>|
